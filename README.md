@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jacob Watua</h1>
+<h1 align="left">Hi 👋, I'm Jacob Watua</h1>
 <h3 align="center">I'm a Fullstack Web Developer with a strong foundation in Python and JavaScript, specializing in React, React Native, and SQL. I enjoy crafting efficient and elegant solutions to complex problems, leveraging my skills in Django, Vue, and Vanilla JS. My passion lies in building scalable and user-friendly applications that enhance the user experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobwatua&label=Profile%20views&color=0e75b6&style=flat" alt="jacobwatua" /> </p>
